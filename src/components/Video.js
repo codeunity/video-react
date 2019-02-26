@@ -45,7 +45,7 @@ const propTypes = {
 };
 
 const defaultProps = {
-  preload: 'auto'
+  preload: 'none'
 };
 
 export default class Video extends Component {
